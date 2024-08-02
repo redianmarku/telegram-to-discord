@@ -15,6 +15,7 @@ This script forwards messages from a Telegram chat or channel to a Discord chann
 1. Clone the repository:
 
    `git clone https://github.com/yourusername/telegram-to-discord-forwarder.git`
+
    `cd telegram-to-discord-forwarder`
 
 2. Create a virtual environment:
@@ -41,4 +42,4 @@ This script forwards messages from a Telegram chat or channel to a Discord chann
 
 1. Run the script:
 
-   python run.py
+   `python run.py`
