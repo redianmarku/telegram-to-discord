@@ -1,0 +1,8 @@
+# Ignore the env folder
+env/
+
+# Ignore files that start with chats_of_
+chats_of_*
+
+# Ignore files that start with session_
+session_*
